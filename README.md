@@ -90,6 +90,5 @@ A document always contains a **header** (title, optional author and date) and a 
 ## 🫂 Team
 
 - Ryan Hercule
-- Camil Kaddouri
 - Zacharie Rodde
 - Jean-Garice Denoncin
